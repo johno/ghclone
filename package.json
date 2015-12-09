@@ -1,0 +1,23 @@
+{
+  "name": "ghclone",
+  "version": "0.0.1",
+  "description": "GitHub clone shortcut",
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "repository": "johnotander/ghclone",
+  "license": "MIT",
+  "bin": "ghclone.sh",
+  "files": [
+    "ghclone.sh"
+  ],
+  "keywords": [
+    "cli-app",
+    "git",
+    "pull",
+    "ghclone",
+    "sh"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {}
+}
