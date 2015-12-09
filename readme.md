@@ -1,22 +1,27 @@
-# ggpull
+# ghclone
 
-Git pull shortcut that automatically infers the current branch. A bash script bundled with npm.
+Git clone shortcut. A bash script bundled with npm.
 
 ## Installation
 
 ```
-$ npm i -g ggpull
+$ npm i -g ghclone
 ```
 
 ## Usage
 
 ```sh
-$ ggpull
+$ ghclone
+GitHub clone shortcut
+
+
+Usage:
+  $ ghclone <username>/<repo>
+
+
+Example:
+  $ ghclone johnotander/pixyll
 ```
-
-## Acknowledgements
-
-Adapted and repackaged from [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh/blob/c82f49e734973debfcab9dd7f1a76bfd42186880/plugins/git/git.plugin.zsh#L13)
 
 ## License
 
